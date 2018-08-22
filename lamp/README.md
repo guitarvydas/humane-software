@@ -1,5 +1,7 @@
 This is a _very_ simple example of a hierarchical state-machine and actor system.
 
+Please see the diagram included in this directory (Lamp Diagrams.pdf).
+
 All consideration of critical regions has been removed - for clarity.  I assume that once the principle(s) is understood, the code for critical regions will become "obvious" (queue access and busy-bit access).
 
 To facilitate clarity, the scheduler (dispatcher) is not correct (SEND should cause dispatching).
