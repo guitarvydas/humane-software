@@ -30,3 +30,4 @@ This example _does not_ demonstrate:
 
 6. How to convert the digram 
 
+7. How to convert LOOPs into events.  (Looping (and long-running) is not allowed in this paradigm).
